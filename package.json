@@ -1,5 +1,5 @@
 {
-"name": "YukiBot-MD",
+"name": "GokuBot-MD",
 "version": "1.8.2",
 "description": "WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -15,7 +15,7 @@
 "type": "git",
 "url": "git+https://github.com/The-King-Destroy/YukiBot-MD.git"
 },  
-"author": "The-King-Destroy",
+"author": "The-King-Isagi,",
 "license": "MIT-License",
 "bugs": {
 "url": "https://github.com/The-King-Destroy/YukiBot-MD/issues"
