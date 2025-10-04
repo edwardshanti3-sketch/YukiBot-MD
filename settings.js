@@ -12,30 +12,30 @@ global.botNumber = "" //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-"573196588149",
-"5492916450307",
-"5216671548329"
+"50487773186",
+"50487773186",
+"50487773186"
 ]
 
-global.suittag = ["573196588149"] 
+global.suittag = ["50487773186"] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2|Latest"
-global.nameqr = "YukiBot-MD"
+global.nameqr = "GokuBot-MD"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "ᥡᥙkі sᥙ᥆ᥙ"
-global.textbot = "ᥡᥙkі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ"
+global.botname = "Goku sᥙ᥆ᥙ"
+global.textbot = "Goku, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ"
 global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
-global.etiqueta = "ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
+global.etiqueta = "ⁱᵃᵐ|isagi𒆜"
 global.currency = "¥enes"
 global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
@@ -43,9 +43,9 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = "https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal"
-global.community = "https://chat.whatsapp.com/G0kXqsteJFU74yrLtg79o6"
-global.channel = "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n"
+global.group = "https://chat.whatsapp.com/IPITX0lJx4e1CWjJ8l1F6G?mode=ems_copy_t"
+global.community = "https://chat.whatsapp.com/LiRNyxKUgUZ8AfaI0I7Tpq"
+global.channel = "https://whatsapp.com/channel/0029VbB2icM8PgsBAxZu7g0X"
 global.github = "https://github.com/The-King-Destroy/YukiBot-MD"
 global.gmail = "thekingdestroy507@gmail.com"
 global.ch = {
