@@ -4,7 +4,7 @@ return m.reply(`《✦》Los comandos de *Economía* están desactivados en este
 }
 let user = global.db.data.users[m.sender]
 user.lastslut = user.lastslut || 0
-const cooldown = 5 * 60 * 1000
+const cooldown = 3 * 60 * 3000
 if (Date.now() < user.lastslut) {
 const restante = user.lastslut - Date.now()
 const tiempoRestante = formatTime(restante)
