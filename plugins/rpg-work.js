@@ -3,7 +3,7 @@ if (!db.data.chats[m.chat].economy && m.isGroup) {
 return m.reply(`《✦》Los comandos de *Economía* están desactivados en este grupo.\n\nUn *administrador* puede activarlos con el comando:\n» *${usedPrefix}economy on*`)
 }
 let user = global.db.data.users[m.sender]
-const cooldown = 2 * 60 * 1000
+const cooldown = 1 * 60 * 1500
 user.lastwork = user.lastwork || 0
 if (Date.now() < user.lastwork) {
 const tiempoRestante = formatTime(user.lastwork - Date.now())
